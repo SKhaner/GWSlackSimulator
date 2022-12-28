@@ -1,5 +1,7 @@
 # Project 3 : GWack Slack Simulator
 
+To test download all files and run GWack.jar
+
 ## Describe the OOP design of your GWack Slack Simulator
 
 Please provide a short description of your programming progress
