@@ -1,4 +1,4 @@
-# Project 3 : GWack Slack Simulator
+# GWack Slack Simulator
 
 To test download all files and run GWack.jar
 
